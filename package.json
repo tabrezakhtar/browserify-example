@@ -1,0 +1,22 @@
+{
+  "name": "browserify-example",
+  "version": "0.0.0",
+  "description": "Playing with browserify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tabrezakhtar/browserify-example.git"
+  },
+  "author": "tabrez akhtar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tabrezakhtar/browserify-example/issues"
+  },
+  "homepage": "https://github.com/tabrezakhtar/browserify-example",
+  "dependencies": {
+    "levenshtein": "^1.0.5"
+  }
+}
